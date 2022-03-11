@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  LINK : C:\Users\s.cohen\VisualStudio\NeruskyLibery\x64\Debug\NeruskyLibery.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\s.cohen\VisualStudio\NeruskyLibery\x64\Debug\NeruskyLibery.lib and object C:\Users\s.cohen\VisualStudio\NeruskyLibery\x64\Debug\NeruskyLibery.exp
+  NeruskyLibery.vcxproj -> C:\Users\s.cohen\VisualStudio\NeruskyLibery\x64\Debug\NeruskyLibery.dll
